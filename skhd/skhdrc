@@ -58,3 +58,5 @@ ctrl - s : yabai -m window --toggle sticky
 
 # reload yabai and skhdrc
 ctrl + shift - r : brew services restart yabai && brew services restart skhd
+
+ctrl + shift - o :  code ~/dotfiles
