@@ -51,6 +51,9 @@ yabai -m config window_opacity_duration      0.0
 # add 20 padding to the top and bottom of all spaces regardless of the display it belongs to
 # yabai -m config external_bar all:20:20
 
+SPACEBAR_HEIGHT=$(spacebar -m config height)
+yabai -m config external_bar all:$SPACEBAR_HEIGHT:0
+
 
 # ================================Rules================================
 # Turn on System Preferences without using tile mode

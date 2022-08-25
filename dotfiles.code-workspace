@@ -7,8 +7,11 @@
 			"path": "../.config/skhd"
 		},
 		{
+			"path": "../.config/spacebar"
+		},
+		{
 			"path": "."
-		}
+		},
 	],
 	"settings": {
 		"makefile.extensionOutputFolder": "./.vscode"
