@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../.config/yabai"
+		},
+		{
+			"path": "../.config/skhd"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"makefile.extensionOutputFolder": "./.vscode"
+	}
+}
