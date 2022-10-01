@@ -57,6 +57,6 @@ ctrl - s : yabai -m window --toggle sticky
 # ctrl + enter : open -a iTerm
 
 # reload yabai and skhdrc
-ctrl + shift - r : brew services restart spacebar && brew services restart yabai && brew services restart skhd
+ctrl + shift - r : brew services restart yabai && brew services restart skhd && brew services restart spacebar
 
 ctrl + shift - o :  code ~/dotfiles
